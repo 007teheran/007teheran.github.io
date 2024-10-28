@@ -6,7 +6,7 @@
 ## Estructura del Proyecto
 El proyecto consta de varios archivos HTML y CSS que proporcionan diferentes secciones del sitio web:
 
-- **`Index.HTML`**: Página principal, presenta la misión y la información principal del sitio.
+- **`index.html`**: Página principal, presenta la misión y la información principal del sitio.
 - **`modelocanvas.HTML`**: Sección que explica el modelo de negocio de "La Ensalada Feliz".
 - **`productos.HTML`**: Muestra los productos disponibles en el menú, con descripciones y precios.
 - **`Somos.HTML`**: Página "Quiénes Somos", que presenta la historia del proyecto, los objetivos y la información sobre el equipo detrás del proyecto.
